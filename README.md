@@ -13,7 +13,7 @@ Harjoituksissa käytetään MySQL-tietokantajärjestelmää.
 Tehtävät on jaettu kansioihin viikoittain.
 
 
-##äytetyt työkalut
+##Käytetyt työkalut
 
 MySQL
 
