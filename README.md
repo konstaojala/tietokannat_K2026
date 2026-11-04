@@ -1,19 +1,19 @@
-Tietokannat K2026
+#Tietokannat K2026
 
 Tämä repository sisältää tietokannat-opintojakson harjoitustehtävät.
 
-Kurssin sisältö
+##Kurssin sisältö
 
 Kurssilla harjoitellaan SQL-kielen käyttöä.
 
 Harjoituksissa käytetään MySQL-tietokantajärjestelmää.
 
-Harjoitustehtävät
+##Harjoitustehtävät
 
 Tehtävät on jaettu kansioihin viikoittain.
 
 
-Käytetyt työkalut
+##äytetyt työkalut
 
 MySQL
 
@@ -23,6 +23,6 @@ Git
 
 GitHub
 
-Tekijä
+##Tekijä
 
 konstaojala
